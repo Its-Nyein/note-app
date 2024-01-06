@@ -1,0 +1,4 @@
+- Update to Notes app, adding Firebase
+- Add notes to summary titles
+- More modified notes to the top of the list
+- delete note
